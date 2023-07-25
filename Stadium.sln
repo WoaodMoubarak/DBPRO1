@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stadium", "Stadium\Stadium.csproj", "{57B6BDAC-E1B2-4FB4-8272-36AF19BB25CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B6BDAC-E1B2-4FB4-8272-36AF19BB25CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B6BDAC-E1B2-4FB4-8272-36AF19BB25CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B6BDAC-E1B2-4FB4-8272-36AF19BB25CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B6BDAC-E1B2-4FB4-8272-36AF19BB25CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {518D8EF6-522B-4248-AA97-61FDFE743780}
+	EndGlobalSection
+EndGlobal
