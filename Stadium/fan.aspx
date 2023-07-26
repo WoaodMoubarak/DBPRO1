@@ -22,15 +22,15 @@
         <p>
             purchase a ticket:</p>
         <p>
-            
-             Host Club:
-             <asp:TextBox ID="hostClub"  runat="server"></asp:TextBox>
-            
-             Guest Club:
-            <asp:TextBox ID="guestClub"  runat="server"></asp:TextBox>
-             Start time:
-             <asp:TextBox ID="StartTime"  runat="server" TextMode ="DateTimeLocal" ></asp:TextBox>
-            <asp:Button ID="Button1" runat="server"  OnClick="purchaseTicket" Height="32px" Text="Purchase" Width="165px" />
+            Host Club:
+            <asp:TextBox ID="hostClub"  runat="server"></asp:TextBox>
+           
+            Guest Club:
+           <asp:TextBox ID="guestClub"  runat="server"></asp:TextBox>
+            Start time:
+            <asp:TextBox ID="StartTime"  runat="server" TextMode ="DateTimeLocal" ></asp:TextBox>
+           <asp:Button ID="Button1" runat="server"  OnClick="purchaseTicket" Height="32px" Text="Purchase" Width="165px" /> 
+          
         </p>
         <p>
             &nbsp;</p>
